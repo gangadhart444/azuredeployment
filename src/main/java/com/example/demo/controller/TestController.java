@@ -11,6 +11,6 @@ public class TestController {
 	@GetMapping("/message")
 	public String getMessage() {
 		
-		return "Congrats you deployed to azure";
+		return "Congrats you deployed to azure demo";
 	}
 }
